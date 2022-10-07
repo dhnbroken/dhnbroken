@@ -7,9 +7,9 @@
 <br>
 <!-- https://simpleicons.org/ -->
 <div align="center">
-  <span><img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" height="75px" width="75px" alt="HTML5 logo" title="HTML5" /></span>
+  <span><img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" height="75px" width="75px" alt="HTML5 logo" title="HTML5" /></span>
   &nbsp;
-  <span><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" height="75px" width="75px" alt="CSS3 logo" title="CSS3" /></span>
+  <span><img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="75px" width="75px" alt="CSS3 logo" title="CSS3" /></span>
   &nbsp;
   <span><img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" height="75px" width="75px" alt="Bootstrap logo" title="Bootstrap" /></span>
   &nbsp;
@@ -25,19 +25,19 @@
   &nbsp;
   <span><img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" height="75px" width="75px" alt="Node.js logo" title="Node.js" /></span>
   &nbsp;
-  <span><img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="75px" width="75px" alt="MongoDB logo" title="MongoDB"/></span>
+  <span><img src="https://www.clipartmax.com/png/middle/275-2754492_mongodb-nosql-document-oriented-database-portable-network-mongodb-logo.png" height="75px" width="75px" alt="MongoDB logo" title="MongoDB"/></span>
   &nbsp;
   <span><img src="https://cdn-icons-png.flaticon.com/128/270/270832.png" height="75px" width="75px" alt="WordPress logo" title="WordPress" /></span>
   &nbsp;
   <span><img src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" height="75px" width="75px" alt="git logo" title="git" /></span>
   &nbsp;
-  <span><img src="https://cdn-icons-png.flaticon.com/128/733/733609.png" height="75px" width="75px" alt="github logo" title="github" /></span>
+  <span><img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" height="75px" width="75px" alt="github logo" title="github" /></span>
   &nbsp;
   <span><img src="https://cdn-icons-png.flaticon.com/128/906/906324.png" height="75px" width="75px" alt="Visual Studio Code logo" title="Visual Studio Code" /></span>
   &nbsp;
   <span><img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png" height="75px" width="75px" alt="Firebase logo" title="Firebase" /></span>
   &nbsp;
-  <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" height="75px" width="75px" alt="ESlint logo" title="ESlint" /></span>
+  <span><img src="https://images.credly.com/images/e6eebd0c-6a17-4c06-b172-02ca9f6beb06/eslint.png" height="75px" width="75px" alt="ESlint logo" title="ESlint" /></span>
   &nbsp;
 </div>
 <br>
