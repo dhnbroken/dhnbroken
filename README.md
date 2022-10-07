@@ -10,7 +10,7 @@
 &nbsp;
 <span><img src="https://img.icons8.com/dusk/75/000000/css3.png" alt="CSS3 logo" title="CSS3" /></span>
 &nbsp;
-<span><img src="https://img.icons8.com/dusk/75/000000/javascript-logo.png" alt="JavaScript logo" title="JavaScript" /></span>
+<span><img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" alt="JavaScript logo" title="JavaScript" /></span>
 &nbsp;
 <span><img src="https://img.icons8.com/fluency/75/FFFFFF/node-js.png" alt="Node.js logo" title="Node.js" /></span>
 &nbsp;
