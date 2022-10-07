@@ -6,27 +6,27 @@
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.icons8.com/dusk/75/000000/html-5.png" alt="HTML5 logo" title="HTML5" /></span>
+<span><img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" height="75px" width="75px" alt="HTML5 logo" title="HTML5" /></span>
 &nbsp;
-<span><img src="https://img.icons8.com/dusk/75/000000/css3.png" alt="CSS3 logo" title="CSS3" /></span>
+<span><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" height="75px" width="75px" alt="CSS3 logo" title="CSS3" /></span>
 &nbsp;
 <span><img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" height="75px" width="75px" alt="JavaScript logo" title="JavaScript" /></span>
 &nbsp;
-<span><img src="https://img.icons8.com/fluency/75/FFFFFF/node-js.png" alt="Node.js logo" title="Node.js" /></span>
+<span><img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" height="75px" width="75px" alt="Node.js logo" title="Node.js" /></span>
 &nbsp;
-<span><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/75/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB logo" title="MongoDB"/></span>
+<span><img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" height="75px" width="75px" alt="MongoDB logo" title="MongoDB"/></span>
 &nbsp;
-<span><img src="https://img.icons8.com/color/75/000000/tailwind_css.png" alt="TailwindCSS logo" title="TailwindCSS" /></span>
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/900px-Tailwind_CSS_Logo.svg.png?20211001194333" height="75px" width="75px" alt="TailwindCSS logo" title="TailwindCSS" /></span>
 &nbsp;
-<span><img src="https://img.icons8.com/color/75/000000/sass.png" alt="SASS logo" title="SASS" /></span>
+<span><img src="https://img.icons8.com/color/75/000000/sass.png" height="75px" width="75px" alt="SASS logo" title="SASS" /></span>
 &nbsp;
-<span><img src="https://img.icons8.com/color/75/000000/git.png" alt="git logo" title="git" /></span>
+<span><img src="https://img.icons8.com/color/75/000000/git.png" height="75px" width="75px" alt="git logo" title="git" /></span>
 &nbsp;
-<span><img src="https://img.icons8.com/dusk/75/228BE6/visual-studio-code-2019.png" alt="Visual Studio Code logo" title="Visual Studio Code" /></span>
+<span><img src="https://img.icons8.com/dusk/75/228BE6/visual-studio-code-2019.png" height="75px" width="75px" alt="Visual Studio Code logo" title="Visual Studio Code" /></span>
 &nbsp;
-<span><img src="https://img.icons8.com/color/75/000000/firebase.png" alt="Firebase logo" title="Firebase" /></span>
+<span><img src="https://img.icons8.com/color/75/000000/firebase.png" height="75px" width="75px" alt="Firebase logo" title="Firebase" /></span>
 &nbsp;
-<span><img src="https://img.icons8.com/dusk/75/000000/wordpress--v1.png" alt="WordPress logo" title="WordPress" /></span>
+<span><img src="https://img.icons8.com/dusk/75/000000/wordpress--v1.png" height="75px" width="75px" alt="WordPress logo" title="WordPress" /></span>
 &nbsp;
 
 <br>
